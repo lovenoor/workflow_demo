@@ -5,3 +5,4 @@
 - Toyota
 - Honda
 - Tesla
+- Kia
