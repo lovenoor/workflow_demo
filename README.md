@@ -9,3 +9,4 @@
 - Tesla
 - Subaru
 - Kia
+- Mercedes-Benz
