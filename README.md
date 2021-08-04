@@ -7,3 +7,4 @@
 - Toyota
 - Honda
 - Tesla
+- Subaru
