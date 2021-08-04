@@ -8,3 +8,4 @@
 - Honda
 - Tesla
 - Subaru
+- Kia
